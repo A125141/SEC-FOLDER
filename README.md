@@ -3,7 +3,7 @@
 # SEC---FOLDER
 Add some privacy and security to your folders
 -------------------------------------------------------------------
-Hello, you are using the latest version of sec-folder
+Hi, you are using the latest version of sec-folder
 ------------------------------------------------------------------------------------
 With sec-folder, you can add a password for any folder. :
 ------------------------------------------------------------------------------------
@@ -17,4 +17,4 @@ that you want to encrypt
 ---------------------------------------------------------------------------------------------------------------
 ⚠⚠ Warning: We are not responsible for any illegal or malicious use of the tool
 Hack the word
-Abdalrahman125141
+ABooD125141
