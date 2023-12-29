@@ -15,6 +15,8 @@ that you want to encrypt
 --Note: If you lose the password or the path of the folder, it is almost impossible to recover the contents of the folder,
  so we recommend that you memorize the password and the path well.
 ---------------------------------------------------------------------------------------------------------------
-⚠⚠ Warning: We are not responsible for any illegal or malicious use of the tool
-Hack the word
+⚠⚠ Warning: We are not responsible for any illegal or malicious use of the tool.
+
+Hack the word!!
+
 ABooD125141
